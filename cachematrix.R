@@ -1,4 +1,4 @@
-#This file consist of 2 functions i.e. makecacheMAtix() and cacheSolve()
+#This file consist of 2 functions i.e. makecacheMatrix() and cacheSolve()
 
 
 # This function creates a special "matrix" object that can cache its inverse.
